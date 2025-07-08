@@ -2,6 +2,10 @@
 
 A clean, responsive HTML landing page template to showcase Odoo modules — featuring screenshots, key highlights, and services section.
 
+## 🌐 Live Demo
+
+👉 [View Demo](https://aungmoewai1.github.io/module_info_template/)
+
 ## 🔧 Installation
 
 1. Clone or download this repo.
