@@ -9,9 +9,10 @@ A clean, responsive HTML landing page template to showcase Odoo modules — feat
 ## 🔧 Installation
 
 1. Clone or download this repo.
-2. Add or modify screenshots and highlight sections as needed.
-3. Open `index.html` in a browser to preview.
-4. Upload to your module's documentation or GitHub Page.
+2. Add it under the static > description
+2. Add or modify screenshots and highlight images as needed.
+3. Open `index.html` to edit for adding hightlight features and workflow images.
+4. You can now view the module description in the app info of the custom module.
 
 
 ## 📁 Folder Structure
